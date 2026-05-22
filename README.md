@@ -39,4 +39,4 @@ The Serial output is designed to be picked up by a Processing sketch
 
 ## Serial data format
 
-Data is streamed at **9600 baud** in the following format:
+Data is streamed at **9600 baud**.
